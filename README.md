@@ -1,8 +1,10 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zsAR-pyY)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15644484&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Understanding your audience's expertise level helps tailor the complexity of your content. For tech experts, you can use industry-specific jargon, delve into deeper technical details, and assume a higher level of baseline knowledge. In contrast, for a non-expert audience, you would simplify concepts, avoid jargon, and focus on explaining the fundamentals, ensuring clarity and comprehension.
 
-## 2. What are some strategies to tailor your content to different audience types?
+## 2. What are some strategies to tailor your content to different audience types? 
 •	Language Simplification: Use simple language for non-experts and technical jargon for experts.
 •	Content Depth: Provide in-depth analysis for experts and a broader overview for non-experts.
 •	Examples and Analogies: Use relatable analogies for non-experts, while experts may benefit from more technical examples.
